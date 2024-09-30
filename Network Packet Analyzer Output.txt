@@ -1,0 +1,33 @@
+Network Packet Analyzer Output
+
+Captured Packets:
+-----------------------------------
+Packet #1:
+Source IP: 192.168.1.10
+Destination IP: 192.168.1.20
+Protocol: TCP
+Source Port: 443
+Destination Port: 5200
+Packet Size: 1500 bytes
+Timestamp: 2024-09-30 14:32:10
+
+Packet #2:
+Source IP: 192.168.1.15
+Destination IP: 192.168.1.25
+Protocol: UDP
+Source Port: 12345
+Destination Port: 53
+Packet Size: 512 bytes
+Timestamp: 2024-09-30 14:32:15
+
+Packet #3:
+Source IP: 192.168.1.20
+Destination IP: 192.168.1.10
+Protocol: ICMP
+Source Port: N/A
+Destination Port: N/A
+Packet Size: 64 bytes
+Timestamp: 2024-09-30 14:32:20
+
+-----------------------------------
+Total Packets Captured: 3
